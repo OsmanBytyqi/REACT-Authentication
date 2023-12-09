@@ -1,0 +1,111 @@
+{
+
+  "user": [
+
+    {
+
+      "id": "admin",
+
+      "name": "osmani",
+
+      "lastname": "dfdfd",
+
+      "password": "osmani@Osmani",
+
+      "email": "test@gmail.com",
+
+      "role": "admin"
+
+    },
+
+    {
+
+      "id": "Urim",
+
+      "name": "Urim",
+
+      "lastname": "Bytyqi",
+
+      "email": "osman-bytyqi@live.com",
+
+      "password": "osmani@Osmani",
+
+      "role": "user"
+
+    },
+
+    {
+
+      "id": "drilon",
+
+      "name": "drilon",
+
+      "lastname": "dfdfd",
+
+      "email": "drilon@live.com",
+
+      "password": "drilon@Loni",
+
+      "role": "user"
+
+    }
+  ],
+  "blogs": [
+
+    {
+
+      "id": "1",
+
+      "title": "Featured Article",
+
+      "description": "Dive into our newest article and discover insights on exciting topics in your industry.",
+
+      "author": "Ali"
+
+    },
+
+    {
+
+      "id": "2",
+
+      "title": "Product Spotlight",
+
+      "description": "Check out our latest product and learn how it can enhance your daily workflow.",
+
+      "author": "mani"
+    },
+    {
+      "id": "3",
+      "title": "Upcoming Event",
+
+      "description": "Save the date! Join us for an upcoming event where you can connect with industry experts.",
+      "author": "Mario"
+    },
+
+    {
+
+      "id": "5",
+
+      "title": "Our Team",
+
+      "description": "Meet the talented individuals who drive the success of Tech Innovators. Each team member contributes unique skills and expertise to our projects.",
+
+      "author": "Osman"
+
+    },
+
+    {
+
+      "id": "6",
+
+      "title": "Why Choose Tech Innovators?",
+
+      "description": "Discover the unique qualities and advantages that make Tech Innovators the ideal choice for cutting-edge solutions in the tech industry.",
+
+      "author": "Luke"
+
+    }
+
+  ]
+
+}

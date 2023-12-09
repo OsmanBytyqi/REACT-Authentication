@@ -1,0 +1,14 @@
+.text-custom-blue {
+    color: #1565c0; /* Text color */
+}
+
+
+
+.bg-custom-blue:hover {
+    background-color: #0d47a1; /* Hover color */
+}
+
+/* Original background color for the Logout button */
+.bg-custom-blue {
+    background-color: #1565c0;
+}
